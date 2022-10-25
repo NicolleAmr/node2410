@@ -1,4 +1,4 @@
-No terminal:
+ao criar pasta; config no terminal:
 
 - npm init
 - npm i express ejs multer
